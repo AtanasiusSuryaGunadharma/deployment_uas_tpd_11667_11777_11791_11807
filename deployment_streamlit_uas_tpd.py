@@ -15,7 +15,7 @@ def load_model_data(path):
         return None
 
 # Memuat data
-model_data = load_model_data(r'D:\SURYA\UAJY\Semester 6\Teknik Penambangan Data\UAS\student_performance_model.pkl')
+model_data = load_model_data(r'student_performance_model.pkl')
 
 # CSS Kustom untuk tema
 st.markdown("""
